@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:jun/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jun.iml" filepath="$PROJECT_DIR$/.idea/modules/jun.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jun.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jun.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jun.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jun.test.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Study.iml" filepath="$PROJECT_DIR$/.idea/Java-Study.iml" />
+>>>>>>> cff1131bd261e3df96f84ad8f8feb337780210e5:.idea/modules.xml
     </modules>
   </component>
 </project>
