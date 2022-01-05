@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="etc.bytebuddy.BCITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-05T00:23:59" hostname="JungJunWooui-MacBookPro.local" time="0.243">
+  <properties/>
+  <testcase name="메서드 조작" classname="etc.bytebuddy.BCITest" time="0.243"/>
+  <system-out><![CDATA[Jun
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
