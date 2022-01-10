@@ -1,5 +1,5 @@
 ## 자바 스터디
-Jun, Pio의 자바 Level Up 스터디
+Jun, Pio, Nori의 자바 Level Up 스터디
 <br/><br/>
 
 |   No  |<center>스터디</center>   |이동|                                                    
