@@ -24,6 +24,9 @@ public class MainTest {
 
     int value2 = Currency.PENNY.myValue();
     assertThat(value2).isEqualTo(1);
+
+    String secondValue = Currency.PENNY.anyMethodName();
+    assertThat(secondValue).isEqualTo("hi");
   }
 
 }
