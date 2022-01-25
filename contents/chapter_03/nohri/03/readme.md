@@ -78,13 +78,13 @@
 
 ### 03 데이터베이스 사용자
 
-![Untitled](Untitled 1.png)
+![Untitled](Untitled1.png)
 
 데이터베이스를 이용하는 사용자는 크게 데이터베이스 관리자, 최종 사용자, 프로그래머로 나눌 수 있다.
 
 ### 04 데이터 언어
 
-![Untitled](Untitled 2.png)
+![Untitled](Untitled2.png)
 
 **데이터 정의어(DDL)**
 
@@ -105,7 +105,7 @@
 
 ## 05 데이터베이스 관리 시스템의 구성
 
-![Untitled](Untitled 3.png)
+![Untitled](Untitled3.png)
 
 **질의 처리기**
 
