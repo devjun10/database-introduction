@@ -21,7 +21,7 @@
 
 데이터 모델은 `데이터 구조`, `연산`, `제약조건`으로 구성된다.
 
-![Untitled](Untitled 1.png)
+![Untitled](Untitled1.png)
 
 - **개념적 데이터 모델**
     - 데이터 구조는 현실 세계를 개념 세계로 추상화 했을 때 어떤 요소로 이루어져 읏는지를 표현하는 개념적 구조다.
@@ -65,12 +65,12 @@
 
 - 특정 개체 타입에 대한 개체 인스턴스들을 모아놓은 것
 
-![Untitled](Untitled 2.png)
+![Untitled](Untitled2.png)
 
 > E-R 다이어그램에서는 개체를 사각형으로 표현하고 사각형 안에 개체의 이름을 표기한다.
 >
 
-![Untitled](Untitled 3.png)
+![Untitled](Untitled3.png)
 
 ### 속성
 
@@ -81,11 +81,11 @@
 > E-R 다이어그램에서는 속성을 타원으로 표현하고 타원 안에 이름을 표기
 >
 
-![Untitled](Untitled 4.png)
+![Untitled](Untitled4.png)
 
 ### 속성의 분류
 
-![Untitled](Untitled 5.png)
+![Untitled](Untitled5.png)
 
 ### 단일 값 속성과 다중 값 속성
 
@@ -99,7 +99,7 @@
 > 다중값 속성은 E-R 다이어그램에서 이중 타원으로 표현한다.
 >
 
-![Untitled](Untitled 6.png)
+![Untitled](Untitled6.png)
 
 ### 단순 속성과 복합 속성
 
@@ -112,7 +112,7 @@
 > 복합 속성은 E-R 다이어그램에서 아래와 같이 표현한다.
 >
 
-![Untitled](Untitled 7.png)
+![Untitled](Untitled7.png)
 
 ### 유도 속성
 
@@ -123,7 +123,7 @@
 > E-R 다이어그램에서 점선 타원으로 표현
 >
 
-![Untitled](Untitled 8.png)
+![Untitled](Untitled8.png)
 
 ### 널 속성
 
@@ -145,7 +145,7 @@
 > E-R 다이어그램에서 밑줄로 표현
 >
 
-![Untitled](Untitled 9.png)
+![Untitled](Untitled9.png)
 
 ### 관계
 
@@ -156,7 +156,7 @@
 > E-R 다이어그램에서 마름모로 표현
 >
 
-![Untitled](Untitled 10.png)
+![Untitled](Untitled10.png)
 
 ### 관계의 유형
 
@@ -172,19 +172,19 @@
 
 개체 A의 각 개체 인스턴스가 개체 B의 개체 인스턴스 하나와 관계를 맺을 수 있고, 개체 B의 각 개체 인스턴스도 개체 A의 개체 인스턴스 하나와 관계를 맺을 수 있음
 
-![Untitled](Untitled 11.png)
+![Untitled](Untitled11.png)
 
 **[ 일대다 1:n 관계 ]** 
 
 개체 A의 각 개체 인스턴스가 개체 B의 개체 인스턴스 여러개와 관계를 맺을 수 있지만, 개체 B의 각 개체 인스턴스도 개체 A의 개체 인스턴스 하나와 관계를 맺을 수 있음
 
-![Untitled](Untitled 12.png)
+![Untitled](Untitled12.png)
 
 **[ 일대다 n:m 관계 ]** 
 
 개체 A의 각 개체 인스턴스가 개체 B의 개체 인스턴스 여러개와 관계를 맺을 수 있고, 개체 B의 각 개체 인스턴스도 개체 A의 개체 인스턴스 여러개와 관계를 맺을 수 있음
 
-![Untitled](Untitled 13.png)
+![Untitled](Untitled13.png)
 
 ### 관계의 참여 특성
 
@@ -201,7 +201,7 @@
 > E-R 다이어그램에서 이중선으로 표현
 >
 
-![Untitled](Untitled 14.png)
+![Untitled](Untitled14.png)
 
 ### 관계의 종속성
 
@@ -218,7 +218,7 @@ Ex)학생 개체와 학부모 개체 예시에서 학생이 졸업하면 학부�
 > E-R 다이어그램에서 약한 개체는 이중 사각형으로 표현하고 약한 개체가 오너 개체와 맺는 관계는 이중 마름모로 표현
 >
 
-![Untitled](Untitled 15.png)
+![Untitled](Untitled15.png)
 
 ### 개체-관계 다이어그램
 
@@ -228,7 +228,7 @@ Ex)학생 개체와 학부모 개체 예시에서 학생이 졸업하면 학부�
 - 링크 : 각 요소를 연결
 - 레이블 : 일대일, 일대다, 다대다 관계를 표기
 
-![Untitled](Untitled 16.png)
+![Untitled](Untitled16.png)
 
 ## 논리적 데이터 모델
 
@@ -251,7 +251,7 @@ Ex)학생 개체와 학부모 개체 예시에서 학생이 졸업하면 학부�
 - 개념적 구조를 모델링하기 어려워 구조가 복잡해질 수 있음
 - 데이터의 삽입, 수정, 삭제, 검색이 쉽지 않음
 
-![Untitled](Untitled 17.png)
+![Untitled](Untitled17.png)
 
 ### 네트워크 데이터 모델
 
@@ -262,4 +262,4 @@ Ex)학생 개체와 학부모 개체 예시에서 학생이 졸업하면 학부�
 - 다대다 관계를 직접 표현할 수 없음
 - 구조가 복잡하고 데이터의 삽입, 삭제, 수정, 검색이 쉽지 않음
 
-![Untitled](Untitled 18.png)
+![Untitled](Untitled18.png)
