@@ -55,7 +55,7 @@
 
 특정 데이터베이스 스키마를 설계한다는 것은 필요한 모든 릴레이션의 스키마를 모두 정의한다는 뜻.
 
-![Untitled](Untitled 1.png)
+![Untitled](Untitled1.png)
 
 ## 3. 릴레이션의 특성
 
@@ -66,7 +66,7 @@
 
 ## 4. 키의 종류
 
-![Untitled](Untitled 2.png)
+![Untitled](Untitled2.png)
 
 ## 슈퍼키
 
