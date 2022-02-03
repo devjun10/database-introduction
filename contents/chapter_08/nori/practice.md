@@ -1,0 +1,6 @@
+![image](디비%20문제.001.jpeg)
+![image](디비%20문제.002.jpeg)
+![image](디비%20문제.003.jpeg)
+![image](디비%20문제.004.jpeg)
+![image](디비%20문제.005.jpeg)
+![image](디비%20문제.007.jpeg)
